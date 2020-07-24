@@ -1,6 +1,6 @@
 <?php
 
-namespace GruppoEdico\CheckVirtualProduct\Observer\Catalog\Product;
+namespace DNAFactory\CheckVirtualProduct\Observer\Catalog\Product;
 
 use Magento\Backend\App\Action;
 use Magento\Catalog\Api\Data\ProductInterface;

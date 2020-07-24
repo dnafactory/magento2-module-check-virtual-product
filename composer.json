@@ -1,5 +1,5 @@
 {
-  "name": "gruppoedico/module-check-virtual-product",
+  "name": "dnafactory/module-check-virtual-product",
   "type": "magento2-module",
   "description": "N/A",
   "license": [
@@ -27,7 +27,7 @@
   "autoload": {
     "files": [ "registration.php" ],
     "psr-4": {
-      "GruppoEdico\\CheckVirtualProduct\\": ""
+      "DNAFactory\\CheckVirtualProduct\\": ""
     }
   }
 }
